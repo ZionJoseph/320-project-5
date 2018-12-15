@@ -5,8 +5,8 @@ This tutorial is about exploring and analyzing data from the College Scorecard. 
 
 Here is a link to the College Scorecard website: https://collegescorecard.ed.gov/
 
-We will specifically look into diversity on college campuses. We will predict how diverse a school is based on its location, tuition, and other attributes. This will give us insight into which features attract people of different races. The data we are using was last updated on October 30th, 2018.
+We will specifically look into diversity and tuition on college campuses. We will predict how much college tuition is paid by each race depending on location. This will give us insight into how tuition impacts the racial demographics of college institutions. The data we are using was last updated on October 30th, 2018.
 
 Here are two helpful links that can help with understanding interaction terms that were used to predict college tuition:
-Understand the concept: http://statisticsbyjim.com/regression/interaction-effects/
-Understand the code: https://chrisalbon.com/machine_learning/linear_regression/adding_interaction_terms/
+Understand the interaction term concept: http://statisticsbyjim.com/regression/interaction-effects/
+Understand the interaction term code: https://chrisalbon.com/machine_learning/linear_regression/adding_interaction_terms/
